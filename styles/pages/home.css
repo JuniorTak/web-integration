@@ -1,0 +1,45 @@
+/* Hero section */
+.hero {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6.5rem;
+    gap: 7.5rem;
+}
+
+.text-red {
+    color: var(--red-highlight);
+}
+
+.description{
+    margin-block-end: 2.6rem;
+}
+
+.address {
+    margin-top: 10.2rem;
+    margin-bottom: 4.5rem;
+}
+
+.facade {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 7.1rem;
+}
+
+.savoir-faire {
+    width: 73rem;
+    margin: 0 auto;
+    margin-bottom: 2em;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 4.3rem;
+    width: 55.25rem;
+    margin: 0 auto;
+    margin-top: 2.25rem;
+}

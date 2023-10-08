@@ -1,0 +1,12 @@
+.cta {
+	background-color: var(--black);
+	font-family: var(--title-font);
+    font-style: normal;
+    font-weight: var(--title-font-weight);
+    font-size: var(--title-font-size);
+    line-height: var(--title-line-height);
+    color: var(--white);
+    width: 13.5rem;
+	height: 3.5rem;
+	cursor: pointer;
+}

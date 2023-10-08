@@ -1,0 +1,11 @@
+footer {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	background-color: var(--black);
+	height: 13.5rem;
+	padding-right: 4.5rem;
+}
+.footer-icon {
+	margin-left: 3.3rem;
+}
